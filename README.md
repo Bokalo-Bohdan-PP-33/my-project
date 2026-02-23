@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+# Проєкт: Quality Assurance в IT проектах
 
 \# Financial Risk Analysis MVP
 
