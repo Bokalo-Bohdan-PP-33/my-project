@@ -1,4 +1,5 @@
-# Проєкт: Quality Assurance в IT проектах
+# Проєкт: Комплексний аналіз ризиків та QA контроль
+
 
 \# Financial Risk Analysis MVP
 
