@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+# Конфлікт: Версія Сервер
 
 \# Financial Risk Analysis MVP
 
