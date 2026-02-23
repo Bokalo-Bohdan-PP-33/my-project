@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+# Проєкт: Аналіз фінансових ризиків v1.0
 
 \# Financial Risk Analysis MVP
 
