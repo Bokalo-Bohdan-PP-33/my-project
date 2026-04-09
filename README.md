@@ -1,5 +1,6 @@
 # Проєкт: Комплексний аналіз ризиків та QA контроль
 
+[![CI/CD Workflow](https://github.com/Bokalo-Bohdan-PP-33/my-project/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Bokalo-Bohdan-PP-33/my-project/actions/workflows/main.yml)
 
 \# Financial Risk Analysis MVP
 
